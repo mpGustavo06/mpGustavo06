@@ -5,7 +5,7 @@
 
 <br>
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpGustavo06&layout=compact&theme=tokyonight" />
 </div>
 

@@ -6,7 +6,7 @@
 <br>
 
 <div>
-  ![Suas Estatísticas](https://github-readme-stats.vercel.app/api?username=AllanGaBRs&show_icons=true&theme=radical)
+  ![Suas Estatísticas](https://github-readme-stats.vercel.app/api?username=mpGustavo06&show_icons=true&theme=radical)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpGustavo06&layout=compact&theme=tokyonight" />
 </div>
 

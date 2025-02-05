@@ -8,6 +8,7 @@
 # 📊 GitHub Stats :
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mpGustavo06&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mpGustavo06&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img align="right" src="https://media4.giphy.com/media/a5Ssl88TdWifT6WL9p/100w.webp?cid=ecf05e47u9pq543dt9ez1tl0g2wg8qsy1fzzzxrqfhdpwzre&ep=v1_stickers_search&rid=100w.webp&ct=s"/>
 
 <br>
 

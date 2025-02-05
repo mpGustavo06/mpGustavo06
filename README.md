@@ -23,7 +23,7 @@
 
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)</br>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <img align="right" src="https://media4.giphy.com/media/a5Ssl88TdWifT6WL9p/100w.webp?cid=ecf05e47u9pq543dt9ez1tl0g2wg8qsy1fzzzxrqfhdpwzre&ep=v1_stickers_search&rid=100w.webp&ct=s"/></br>
 
 ---

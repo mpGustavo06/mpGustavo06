@@ -6,7 +6,7 @@
 <br>
 
 # 📊 GitHub Stats :
-![](./profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-night-view.svg)
 <div align="center">
   
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mpGustavo06&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>

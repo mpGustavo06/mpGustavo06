@@ -13,7 +13,7 @@
 # 💻 I have knowledge and experience in:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,maven,spring,py,go,react,nodejs,vite,npm,bun,php,laravel,mysql,postgres,redis,cypress,r,docker,kubernetes,aws,postman,rabbitmq,md,linux,ubuntu,xd,figma&theme=dark&perline=16" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,maven,spring,py,go,react,nodejs,vite,npm,bun,php,laravel,mysql,postgres,redis,cypress,r,docker,kubernetes,aws,azure,postman,rabbitmq,md,linux,ubuntu,xd,figma&theme=dark&perline=16" />
   </a>
 </p>
 

@@ -1,6 +1,6 @@
 ## Hi, I'm Gustavo Matheus Pauvels 👋
 
-- 🌱 I’m currently learning JavaScript & AWS Technologies
+- 🌱 I’m currently learning JavaScript, TypeScript & AWS Technologies
 - 🌱 I am currently studying TSI (Internet Systems Technology) at UTFPR (Federal Technological University of Paraná)
 
 <br>

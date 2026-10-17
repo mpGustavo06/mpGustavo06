@@ -18,7 +18,7 @@
 # 💻 I have knowledge and experience in:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,maven,spring,py,sklearn,ts,nodejs,express,flask,npm,yarn,php,laravel,mysql,postgres,redis,cypress,r,latex,docker,kubernetes,aws,azure,gcp,postman,rabbitmq,md,ubuntu,xd,figma&theme=dark&perline=16" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,maven,spring,py,sklearn,ts,nodejs,npm,yarn,php,laravel,mysql,postgres,redis,r,latex,docker,aws,postman,rabbitmq,md,ubuntu,figma&theme=dark&perline=16" />
   </a>
 </p>
 
